@@ -1,0 +1,1 @@
+A simple issue tracker for all kinds of users.  Details in the wiki tab.
